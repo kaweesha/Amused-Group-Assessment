@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test thread-count="1" name="TestLaptopCRUDOperations">
+        <parameter name="baseUri" value="https://api.restful-api.dev"/>
+        <parameter name="dataFileName" value="DataSheet.xlsx"/>
+        <classes>
+            <class name="com.amused.assignment.rest.TestLaptopCRUDOperations"/>
+        </classes>
+    </test>
+</suite>
