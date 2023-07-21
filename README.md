@@ -1,7 +1,7 @@
 # Amused-Group-Assessment
 
 - This test project contains 4 tests to test GET, POST, UPDATE and DELETE methods in https://restful-api.dev/
-- Maven, Rest Assured, TestNG, Allure Reports are used for this project.
+- Maven, REST Assured, TestNG, Allure Reports are used for this project.
 - The excel data sheet is placed in src->test->resources folder.
 - Maven and Allure should be installed to execute and view report.
 
