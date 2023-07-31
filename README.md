@@ -5,6 +5,7 @@
 - The excel data sheet is placed in src->test->resources folder.
 - Maven and Allure should be installed to execute and view the report.
 
+
 How to execute:
 - Open the project folder in command prompt and run '**mvn clean test**'.
 - After the test execution is over, run '**allure serve**' to view the test report.
